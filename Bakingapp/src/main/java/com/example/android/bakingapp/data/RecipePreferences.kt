@@ -1,8 +1,6 @@
 package com.example.android.bakingapp.data
 
 import android.content.Context
-import android.os.Build
-import androidx.annotation.RequiresApi
 import com.example.android.bakingapp.model.Ingredient
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
